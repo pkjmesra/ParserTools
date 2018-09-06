@@ -6,4 +6,4 @@ before_install:
 script:
   - cd PDFToText
   - chmod +x cm.sh
-  - ./cm.sh
+  - bash cm.sh
