@@ -1,0 +1,67 @@
+StockWatch
+StockWatch
+
+Watch list
+The following are fundamentally strong companies identified by Capital Market analysts. The list is constantly reviewed and updated,
+adding scrips with upward potential and removing those that have, in our opinion, exhausted their run.
+COMPANY                    IND.     PRICE (Rs)         TTM          TTM            P/E           COMPANY                   IND.   PRICE (Rs)     TTM      TTM      P/E
+                            NO.     20-08-2018        YEAR        EPS (Rs)                                                  NO.   20-08-2018    YEAR    EPS (Rs)
+
+ Ador Welding              41          350          201806           16.7         20.9            KEI Inds.                 15       410       201806     19.1     21.5
+ Automotive Axles          10         1302          201806           66.2         19.7            Kennametal India          44       847       201803     17.9     47.3
+ Bajaj Auto                 8         2734          201806          152.9 *       17.9            KSB                       78       773       201806     20.6     37.6
+ Bajaj Corp                65          417          201806           14.6         28.6            L G Balakrishnan          10       537       201806     28.8     18.7
+ Bajaj Electrical          36          548          201806           14.8         37.0            Lak. Electrical           39       603       201806     46.8     12.9
+ Bajaj Fin.                50         2839          201803           46.3 *       61.4            Larsen & Toubro           45      1324       201806     54.3 *   24.4
+ Balmer Lawrie            108          220          201806           17.0         13.0            LIC Housing Fin.          51       554       201803     39.4     14.0
+ Bharat Forge              17          646          201806           18.3         35.4            M&M                        6       968       201806     36.2     26.7
+ Bharat Gears              10          172          201806           13.2         13.0            M M Forgings              17       611       201806     31.0     19.7
+ Capacit’e Infra.          31          265          201806           12.6         21.1            Maruti Suzuki              6      9076       201806    269.5     33.7
+ Carborundum Uni.           1          360          201806           12.6 *       28.5            Meghmani Organ.           67        94       201806      8*      11.7
+ Clariant Chemica          22          465          201806           14.2         32.9            Monte Carlo Fas.          97       434       201806     28.0     15.5
+ Container Corpn.         106          628          201806           21.7         29.0            Multibase India           75       550       201806     15.7     35.1
+ CRISIL                   106         1804          201806           45.1 *       40.0            Munjal Showa              10       218       201806     19.3     11.3
+ D B Corp                  47          251          201806           16.9 *       14.8            Orient Refrac.            81       246       201806      7.6     32.3
+ Dabur India               65          454          201806            8*          56.4            Oriental Aromat.          22       916       201806     38.7     23.7
+ Dynemic Products          38          150          201806           15.9          9.5            Poddar Pigments           22       242       201806     16.4     14.7
+ Elantas Beck              22         2010          201806           69.1         29.1            Power Grid Corpn          76       187       201806     16.1     11.6
+ Engineers India           45          125          201806            6.1         20.6            Power Mech Proj.          45       966       201806     58.2 *   16.6
+ Esab India                41          836          201806           29.0         28.8            PPAP Automotive           10       541       201806     28.8     18.8
+ Essel Propack             62          111          201806            5.8 *       19.2            Prec. Wires (I)           59       255       201806     16.6     15.3
+ Federal Bank              12           82          201806            4.7         17.3            PTC India                101        84       201806     10.7      7.9
+ Foseco India              22         1495          201806           51.1         29.3            Rallis India              67       193       201806      9.1 *   21.2
+ Garware-Wall Rop          97         1257          201806           50.5         24.9            Salzer Electron.          39       162       201806     12.9     12.6
+ GE T&D India              39          275          201806            9.0         30.7            Samkrg Pistons            10       247       201806     22.4     11.0
+ GMM Pfaudler              44         1128          201806           21.8         51.6            Sanofi India              73      6227       201806    162.6     38.3
+ GNA Axles                 10          374          201806           25.1         14.9            Savita Oil Tech           69      1186       201806     84.5     14.0
+ Godrej Consumer           65         1399          201806           24.4 *       57.4            Schaeffler India          13      5283       201806    152.7     34.6
+ Goodyear India           105         1095          201806           54.7         20.0            Sharda Motor              10      1976       201806    135.6     14.6
+ HDFC                      51         1920          201806           58.3         32.9            Shriram Pistons           10      1441       201806     64.7     22.3
+ Harita Seating            10          634          201806           38.6         16.4            SKF India                 13      1749       201806     60.9     28.7
+ HDFC Bank                 12         2097          201806           67.1         31.2            South Ind.Bank            12        18       201806      1.4     12.6
+ Hero Motocorp              9         3305          201806          184.9         17.9            St Bk of India            11       308       201806    -16.3 *    0.0
+ Hikal                     71          140          201806            6.5         21.7            Sundaram Finance          50      1495       201803     48.0     31.2
+ Hil Ltd                   20         2183          201806          128.6         17.0            Sundram Fasten.           48       650       201806     18.3     35.6
+ Hind.Tin Works            62           86          201806            8.6         10.1            Supreme Inds.             75      1195       201806     35.6 *   33.5
+ Honda Siel Power          39         1233          201806           63.2         19.5            Swaraj Engines            46      1780       201806     67.3     26.4
+ Honeywell Auto            43        23000          201806          323.6         71.1            T N Newsprint             64       300       201806     10.4     29.0
+ Indian Hume Pipe          31          286          201806           13.0         22.0            TCS                       27      2010       201806     71.2 *   28.3
+ Infosys                   27         1385          201806           74 *         18.7            Technofab Engg.           45       168       201806     13.4     12.6
+ Ingersoll-Rand            25          574          201806           30.4         18.9            Thermax                   44       976       201806     20.2 *   48.4
+ Insecticid.India          67          677          201806           42.3         16.0            Tide Water Oil            22      5748       201806    298.6     19.2
+ ION Exchange              44          431          201806           35.0         12.3            Time Technoplast          75       143       201806      8.3 *   17.2
+ ISGEC Heavy               44         6205          201806          180.9         34.3            Va Tech Wabag             44       388       201806     24.9 *   15.6
+ ITC                       24          313          201806            9.2         34.1            Vesuvius India            81      1242       201806     45.9     27.1
+ Jasch Inds.               75           67          201806            5.1         13.1            Veto Switchgears          39       169       201806     16.1 *   10.5
+ JMC Projects              31          532          201806           33.1         16.1            V-Guard Inds.             39       214       201806      3.4     63.4
+ K E C Intl.              102          295          201806           18.8 *       15.6            Visaka Inds.              20       601       201806     46.6     12.9
+ Kalpataru Power          102          362          201806           21.7         16.7            VST Till. Tract.           7      2145       201806    113.6     18.9
+ Kalyani Forge             17          347          201806           20.5         16.9            Whirlpool India           36      1747       201806     30.1     58.1
+ Kanpur Plastipa.          62          139          201806           13.1         10.6            WPIL                      78       913       201806     68.0     13.4
+ Karnataka Bank            12          120          201806           12.6          9.5            Yes Bank                  12       394       201806     19.6     20.1
+ * indicates that EPS is consolidated. TTM: Trailing 12-months. This issue Tamil Nadu Newsprint replace Hindustan Media.
+
+
+
+Aug 27 – Sep 09, 2018 CAPITAL MARKET                                                                                                                                  69
+
